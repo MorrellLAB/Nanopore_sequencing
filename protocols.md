@@ -28,3 +28,18 @@ Here is the commandline I used for back up data to external hard drive
 ```
 rdiff-backup --force /Library/MinKNOW/data/reads  /Volumes/Drive8/FAJ07225_FAH86411/reads 
 ```
+
+---
+
+# Ligation kit (Morex-sample2)
+I started the size selected DNA with fragment length >40kb, 500ng.
+
+I skipped the FFPE DNA repairing step, and started from the Adapter ligation and clean-up, but I did not get any data.
+
+The report picture from miKNOW looks werid, and the enhance support suggested that we should start with the FFPE step, and load more DNA.
+
+
+
+
+
+
